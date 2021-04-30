@@ -1,0 +1,13 @@
+C:\Users\RTC9911\source\repos\WebTarayicisi\WebTarayicisi\bin\Debug\WebTarayicisi.exe.config
+C:\Users\RTC9911\source\repos\WebTarayicisi\WebTarayicisi\bin\Debug\WebTarayicisi.exe
+C:\Users\RTC9911\source\repos\WebTarayicisi\WebTarayicisi\bin\Debug\WebTarayicisi.pdb
+C:\Users\RTC9911\source\repos\WebTarayicisi\WebTarayicisi\obj\Debug\WebTarayicisi.csprojAssemblyReference.cache
+C:\Users\RTC9911\source\repos\WebTarayicisi\WebTarayicisi\obj\Debug\WebTarayicisi.Properties.Resources.resources
+C:\Users\RTC9911\source\repos\WebTarayicisi\WebTarayicisi\obj\Debug\WebTarayicisi.csproj.GenerateResource.cache
+C:\Users\RTC9911\source\repos\WebTarayicisi\WebTarayicisi\obj\Debug\WebTarayicisi.csproj.CoreCompileInputs.cache
+C:\Users\RTC9911\source\repos\WebTarayicisi\WebTarayicisi\obj\Debug\WebTarayicisi.exe
+C:\Users\RTC9911\source\repos\WebTarayicisi\WebTarayicisi\obj\Debug\WebTarayicisi.pdb
+C:\Users\RTC9911\source\repos\WebTarayicisi\WebTarayicisi\obj\Debug\WebTarayicisi.ASLAN.resources
+C:\Users\RTC9911\source\repos\WebTarayicisi\WebTarayicisi\bin\Debug\System.Data.OleDb.dll
+C:\Users\RTC9911\source\repos\WebTarayicisi\WebTarayicisi\bin\Debug\System.Data.OleDb.xml
+C:\Users\RTC9911\source\repos\WebTarayicisi\WebTarayicisi\obj\Debug\WebTarayicisi.csproj.CopyComplete
